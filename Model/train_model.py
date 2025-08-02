@@ -7,7 +7,7 @@ import cv2
 import os
 
 # Simulated dataset (replace with real satellite imagery dataset)
-def load_data(data_dir='data'):
+def load_data(data_dir='datasoyr'):
     images = []
     labels = []
     for i in range(100):  # Simulated 100 images
