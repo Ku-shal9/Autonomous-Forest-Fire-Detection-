@@ -1,0 +1,8 @@
+tensorflow==2.17.0
+fastapi==0.111.0
+uvicorn==0.30.0
+streamlit==1.37.0
+numpy==1.26.4
+pillow==10.4.0
+requests==2.32.3
+opencv-python==4.10.0.84
